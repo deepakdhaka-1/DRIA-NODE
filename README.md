@@ -26,8 +26,8 @@ sudo dkn-compute-launcher referrals
 
 # 👉Select `Gemini` instead of Ollama
 #👉Choose Model's (check ss)     -- You can Choose One or both👇
-gemini-1.5-flash,
-gemini-1.5-pro
+gemini-2.0-flash,
+gemini-2.0-pro
 
 Use Up - down Keys to select "Enter referral code to be referred" and Enter The Refer Code-👇
 # Enter your Metamask Private Key 
@@ -54,7 +54,7 @@ https://form.typeform.com/to/Eav42hR3?typeform-source=www.google.com
 
 # Start Your Node
 ```
-sudo dkn-compute-launcher start
+sudo dkn-compute-launcher.exe start
 ```
 ![image](https://github.com/user-attachments/assets/ca3d7f6b-9919-4ecb-9022-087f978f1b95)
 ## Congratulation Your Node is Live Successfully. ##
